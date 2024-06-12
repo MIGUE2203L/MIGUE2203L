@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **MIGUE2203L/MIGUE2203L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![](link)
-
+- ![](<a href="https://br.freepik.com/fotos-gratis/vaca-linda-na-grama-verde-com-ceu-azul_11244791.htm#query=vaca&position=1&from_view=keyword&track=sph&uuid=41895383-7d36-4c55-902f-784c8332bc3a">Imagem de vwalakte no Freepik</a>)
 -->
